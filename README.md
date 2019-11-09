@@ -1,4 +1,4 @@
-** HTC Unbricking Project  **
+# HTC Unbricking Project
 
 This is a storage repository of the unbrick packages for the supported devices
 
